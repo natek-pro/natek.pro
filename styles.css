@@ -424,7 +424,7 @@ h1 {
   }
 
   .capability-list article {
-    grid-template-columns: 44px minmax(210px, 0.8fr) minmax(260px, 1.2fr);
+    grid-template-columns: 44px minmax(0, 0.8fr) minmax(0, 1.2fr);
     gap: 20px;
   }
 
